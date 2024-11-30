@@ -16,7 +16,7 @@ sections:
     subtitle: 'At pseudominds , we want you to dwell into a world of electronics'
     items:
       - type: Card
-        title: First Item Title
+        title: Robotics
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
