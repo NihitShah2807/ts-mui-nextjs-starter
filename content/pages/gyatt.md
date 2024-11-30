@@ -35,7 +35,10 @@ sections:
             color: primary
       - type: Card
         title: Youth
-        text: ''
+        text: >
+          We all know that youth is the key to the future; therefore, we create
+          small appliances for children to teach them basic electronics. Our
+          youth is the future of our nation!
         image:
           type: Image
           url: /images/paige-cody-FHFfHWWzbCc-unsplash.jpg
