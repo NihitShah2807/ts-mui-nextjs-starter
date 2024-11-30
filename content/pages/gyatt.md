@@ -12,7 +12,7 @@ sections:
       url: /images/pixelcut-export.jpeg
       altText: A journey towards the future
   - type: CardsSection
-    title: Cards Section Title
+    title: Our motto
     subtitle: The section subtitle
     items:
       - type: Card
