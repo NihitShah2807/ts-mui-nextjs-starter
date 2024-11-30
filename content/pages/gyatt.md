@@ -10,5 +10,5 @@ sections:
     image:
       type: Image
       url: /images/pixelcut-export.jpeg
-      altText: Image alt text
+      altText: A journey towards the future
 ---
