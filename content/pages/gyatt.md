@@ -52,10 +52,10 @@ sections:
             color: primary
       - type: Card
         title: Crimes
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Studies show that about 80-90% of our feelings are not controllable;
+          in this case , one could never rely on instincts for the future.
+          Accidents may happen! But we are the HEROES!!!
         image:
           type: Image
           url: >-
