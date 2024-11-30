@@ -5,9 +5,7 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: ''
-    text: >-
-      Add more sections by hovering above or below this one and clicking '+ Add
-      Section', or using the sidebar.
+    text: ''
     actions: []
     image:
       type: Image
