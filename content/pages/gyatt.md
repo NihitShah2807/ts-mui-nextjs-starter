@@ -13,7 +13,7 @@ sections:
       altText: A journey towards the future
   - type: CardsSection
     title: Our motto
-    subtitle: The section subtitle
+    subtitle: 'At pseudominds , we want you to dwell into a world of electronics'
     items:
       - type: Card
         title: First Item Title
