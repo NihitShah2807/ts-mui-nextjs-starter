@@ -58,8 +58,7 @@ sections:
           Accidents may happen! But we are the HEROES!!!
         image:
           type: Image
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/maxim-hopman-PEJHULxUHZs-unsplash.jpg
           altText: Item image
         actions:
           - type: Button
