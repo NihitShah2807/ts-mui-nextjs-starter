@@ -17,10 +17,10 @@ sections:
     items:
       - type: Card
         title: Robotics
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Get ready for one of the most exciting journeys you would have! U
+          shall fly admist the silicon skies , swim in the pool of future and
+          walk on the land of artificial intelligence
         image:
           type: Image
           url: /images/olivier-collet-hLXTRAMuvBY-unsplash.jpg
