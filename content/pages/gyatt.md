@@ -18,9 +18,9 @@ sections:
       - type: Card
         title: Robotics
         text: >
-          Get ready for one of the most exciting journeys you would have! U
+          *Get ready for one of the most exciting journeys you would have! U
           shall fly admist the silicon skies , swim in the pool of future and
-          walk on the land of artificial intelligence
+          walk on the land of artificial intelligence*
         image:
           type: Image
           url: /images/olivier-collet-hLXTRAMuvBY-unsplash.jpg
